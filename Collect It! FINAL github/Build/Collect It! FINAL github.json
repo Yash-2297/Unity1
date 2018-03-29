@@ -1,0 +1,14 @@
+{
+"companyName": "HFU",
+"productName": "Collect It!",
+"dataUrl": "Collect It! FINAL github.data.unityweb",
+"asmCodeUrl": "Collect It! FINAL github.asm.code.unityweb",
+"asmMemoryUrl": "Collect It! FINAL github.asm.memory.unityweb",
+"asmFrameworkUrl": "Collect It! FINAL github.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Collect It! FINAL github.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
